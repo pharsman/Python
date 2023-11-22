@@ -1,5 +1,7 @@
 def hello():
-    print("Hello! Have a nice day!")
+    print('Hello! Have a nice day!')
 
 def by():
-    print("Bye! Have a wonderful time")
+    print('By! Have a wonderful time!')
+
+# help('modules')
